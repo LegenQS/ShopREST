@@ -1,0 +1,1413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66b27be2-62ad-4ef7-8bc5-baa5629eb72e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BFSTraining/Lectures/Microservice/.idea/Microservice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BFSTraining/Lectures/RabbitMQDemo/.idea/RabbitMQDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/1. Core Java/CoreJava/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/1. Core Java/CoreJava/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/1. Core Java/CoreJava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/1. Core Java/CoreJava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/1. Core Java/CoreJava/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/1. Core Java/CoreJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/1. Core Java/CoreJava/CoreJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/1. Core Java/CoreJava/out/production/CoreJava/JavaSE/JavaSE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/1. Core Java/CoreJava/out/production/CoreJava/JavaSE/out/production/JavaSE/JavaSE/JavaSE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/1. Core Java/CoreJava/src/Collections/Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/1. Core Java/CoreJava/src/JavaSE/DEMO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/1. Core Java/CoreJava/src/JavaSE/DeepVsShallowCopies/DeepCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/1. Core Java/CoreJava/src/JavaSE/DeepVsShallowCopies/ShallowCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/1. Core Java/CoreJava/src/JavaSE/DeepVsShallowCopies/driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/1. Core Java/CoreJava/src/JavaSE/FinalKeywordDemo/AFinalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/1. Core Java/CoreJava/src/JavaSE/FinalKeywordDemo/DemoDriverClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/1. Core Java/CoreJava/src/JavaSE/FinalKeywordDemo/FinalVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/1. Core Java/CoreJava/src/JavaSE/FinalKeywordDemo/SomeFinalMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/1. Core Java/CoreJava/src/JavaSE/JavaSE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/1. Core Java/CoreJava/src/JavaSE/out/production/JavaSE/JavaSE/JavaSE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/1. Core Java/CoreJava/src/OOPs/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/3. Collections/Collections/Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/3. Collections/Collections/Comparator/MyComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/3. Collections/Collections/Comparator/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/3. Collections/Collections/Comparator/PersonWithComparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/3. Collections/Collections/Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/3. Collections/Collections/out/production/Collections/Collections/Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/3. Collections/HashMap/HashMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/3. Collections/HashMap/out/production/HashMap/HashMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/3. Collections/LambdaFunctional/LambdaFunctional.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/3. Collections/LambdaFunctional/src/MyFunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/5. Thread/ThreadDemo/ThreadDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/5. Thread/ThreadDemo/src/Counter/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/5. Thread/ThreadDemo/src/Deadlock/Friend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/5. Thread/ThreadDemo/src/Thread/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/5. Thread/ThreadDemo/src/Thread/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/5. Thread/threadsafesingleton/out/production/threadsafesingleton/threadsafesingleton/threadsafesingleton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1. Java SE basics/5. Thread/threadsafesingleton/threadsafesingleton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10. Hibernate Advanced/HibernateFetchingDemo/src/main/java/com/example/hibernatefetchingdemo/config/HibernateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10. Hibernate Advanced/HibernateFetchingDemo/src/main/java/com/example/hibernatefetchingdemo/config/HibernateProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10. Hibernate Advanced/HibernateFetchingDemo/src/main/java/com/example/hibernatefetchingdemo/controller/BankAccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10. Hibernate Advanced/HibernateFetchingDemo/src/main/java/com/example/hibernatefetchingdemo/controller/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10. Hibernate Advanced/HibernateFetchingDemo/src/main/java/com/example/hibernatefetchingdemo/dao/AbstractHibernateDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10. Hibernate Advanced/HibernateFetchingDemo/src/main/java/com/example/hibernatefetchingdemo/dao/BankAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10. Hibernate Advanced/HibernateFetchingDemo/src/main/java/com/example/hibernatefetchingdemo/domain/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10. Hibernate Advanced/HibernateFetchingDemo/src/main/java/com/example/hibernatefetchingdemo/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10. Hibernate Advanced/HibernateFetchingDemo/src/main/java/com/example/hibernatefetchingdemo/service/BankAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10. Hibernate Advanced/HibernateFetchingDemo/src/main/java/com/example/hibernatefetchingdemo/service/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10. Hibernate Advanced/TransactionManagementDemo/src/main/java/com/example/transactionmanagementdemo/config/HibernateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10. Hibernate Advanced/TransactionManagementDemo/src/main/java/com/example/transactionmanagementdemo/config/HibernateProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10. Hibernate Advanced/TransactionManagementDemo/src/main/java/com/example/transactionmanagementdemo/controller/AuthorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10. Hibernate Advanced/TransactionManagementDemo/src/main/java/com/example/transactionmanagementdemo/dao/AuthorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10. Hibernate Advanced/TransactionManagementDemo/src/main/java/com/example/transactionmanagementdemo/domain/entity/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10. Hibernate Advanced/TransactionManagementDemo/src/main/java/com/example/transactionmanagementdemo/domain/response/AllAuthorsResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10. Hibernate Advanced/TransactionManagementDemo/src/main/java/com/example/transactionmanagementdemo/domain/response/AuthorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10. Hibernate Advanced/TransactionManagementDemo/src/main/java/com/example/transactionmanagementdemo/exception/AuthorSaveFailedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10. Hibernate Advanced/TransactionManagementDemo/src/main/java/com/example/transactionmanagementdemo/service/AuthorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/SpringSecurityDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_11_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_11_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_55.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_55.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_55.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_test_5_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringSecurityAuth/src/main/java/com/beaconfire/springsecurityauth/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecurityOAuth2Demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecurityOAuth2Demo/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecurityOAuth2Demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecurityOAuth2Demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecurityOAuth2Demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecurityOAuth2Demo/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecurityOAuth2Demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecurityOAuth2Demo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecurityOAuth2Demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringSecurityOAuth2Demo/OAuth-Authorization-Server/src/main/java/com/SpringSecurityOAuth2Demo/oauthserver/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14. Testing/testing-demo/.idea/testing-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../16. Messaging Queue - RabbitMQ/RabbitMQDemo/.idea/RabbitMQDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../19. Microservice1 Application architecture/Microservice/.idea/Microservice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20. Microservices and Spring Cloud/resilience4jdemo 2/.idea/resilience4jdemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20. Microservices and Spring Cloud/resilience4jdemo 2/compositive-service-2/compositive-service (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20. Microservices and Spring Cloud/resilience4jdemo 2/compositive-service-2/compositive-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20. Microservices and Spring Cloud/resilience4jdemo 2/compositive-service/compositive-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20. Microservices and Spring Cloud/resilience4jdemo 2/core-service/core-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 &amp; 5. Maven + Spring/MavenDemo/src/main/java/com/example/mavendemo/Annotation/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 &amp; 5. Maven + Spring/MavenDemo/src/main/java/com/example/mavendemo/Annotation/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 &amp; 5. Maven + Spring/MavenDemo/src/main/java/com/example/mavendemo/Annotation/PlayerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 &amp; 5. Maven + Spring/MavenDemo/src/main/java/com/example/mavendemo/Annotation/Tennis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 &amp; 5. Maven + Spring/MavenDemo/src/main/java/com/example/mavendemo/Annotation/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 &amp; 5. Maven + Spring/MavenDemo/src/main/java/com/example/mavendemo/MavenDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 &amp; 5. Maven + Spring/MavenDemo/src/main/java/com/example/mavendemo/something.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 &amp; 5. Maven + Spring/SpringDemo/.idea/SpringDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 &amp; 5. Maven + Spring/SpringDemo/CouplingDemo/CouplingDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 &amp; 5. Maven + Spring/SpringDemo/CouplingDemo/out/production/SpringDemo/CouplingDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 &amp; 5. Maven + Spring/SpringDemo/SpringAnnotation/SpringAnnotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 &amp; 5. Maven + Spring/SpringDemo/SpringPureAnnotation/SpringPureAnnotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 &amp; 5. Maven + Spring/SpringDemo/SpringXML/SpringXML.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6. Spring Data Access/SpringDataAccessDemo/.idea/SpringDataAccessDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6. Spring Data Access/SpringDataAccessDemo/JdbcDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6. Spring Data Access/SpringDataAccessDemo/JdbcDemo/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6. Spring Data Access/SpringDataAccessDemo/JdbcDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6. Spring Data Access/SpringDataAccessDemo/JdbcDemo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6. Spring Data Access/SpringDataAccessDemo/JdbcDemo/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6. Spring Data Access/SpringDataAccessDemo/JdbcDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6. Spring Data Access/SpringDataAccessDemo/JdbcDemo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6. Spring Data Access/SpringDataAccessDemo/JdbcDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6. Spring Data Access/SpringDataAccessDemo/JdbcDemo/transactionDemo.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9. Hibernate/HibernateIntro/HibernateIntro/HibernateIntro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9. Hibernate/hibernate-project-demo/.idea/hibernate-project-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IMG_3304.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Josh.5.24.18.DOUBLE.SPACED   (Recovered).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logisim.app/Contents/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logisim.app/Contents/MacOS/JavaApplicationStub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logisim.app/Contents/PkgInfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logisim.app/Contents/Resources/Java/logisim.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logisim.app/Contents/Resources/LogisimApp.icns" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logisim.app/Contents/Resources/LogisimDoc.icns" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Logisim.app/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /1 (+31) Cover-1222, missing 810.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/8NumbersInACross/8NumbersInACross.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/8NumbersInACross/8NumbersInACross.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/8NumbersInACross/8NumbersInACross.xcodeproj/project.xcworkspace/xcuserdata/SimonLi.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/8NumbersInACross/8NumbersInACross.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/8NumbersInACross.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/8NumbersInACross/8NumbersInACross.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/8NumbersInACross/8NumbersInACross/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/CS211 #1 Exam Questions/CS211 #1 Exam Questions.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/CS211 #1 Exam Questions/CS211 #1 Exam Questions.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/CS211 #1 Exam Questions/CS211 #1 Exam Questions.xcodeproj/project.xcworkspace/xcuserdata/SimonLi.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/CS211 #1 Exam Questions/CS211 #1 Exam Questions.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/CS211 #1 Exam Questions/CS211 #1 Exam Questions.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/CS211 #1 Exam Questions.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/CS211 #1 Exam Questions/CS211 #1 Exam Questions.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/CS211 #1 Exam Questions/CS211 #1 Exam Questions/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Euclidean Alogrithm/Euclidean Alogrithm.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Euclidean Alogrithm/Euclidean Alogrithm.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Euclidean Alogrithm/Euclidean Alogrithm.xcodeproj/project.xcworkspace/xcuserdata/SimonLi.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Euclidean Alogrithm/Euclidean Alogrithm.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/Euclidean Alogrithm.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Euclidean Alogrithm/Euclidean Alogrithm.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Euclidean Alogrithm/Euclidean Alogrithm/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Integration Problem/Integration Problem.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Integration Problem/Integration Problem.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Integration Problem/Integration Problem.xcodeproj/project.xcworkspace/xcuserdata/SimonLi.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Integration Problem/Integration Problem.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/Integration Problem.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Integration Problem/Integration Problem.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Integration Problem/Integration Problem/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Investment Strategy/Investment Strategy.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Investment Strategy/Investment Strategy.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Investment Strategy/Investment Strategy.xcodeproj/project.xcworkspace/xcuserdata/SimonLi.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Investment Strategy/Investment Strategy.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/Investment Strategy.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Investment Strategy/Investment Strategy.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Investment Strategy/Investment Strategy/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/K Bishops/K Bishops.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/K Bishops/K Bishops.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/K Bishops/K Bishops.xcodeproj/project.xcworkspace/xcuserdata/SimonLi.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/K Bishops/K Bishops.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/K Bishops.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/K Bishops/K Bishops.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/K Bishops/K Bishops/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Pascal's Triangle to find the binomial coefficient of any given number of n/Pascal's Triangle.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Pascal's Triangle to find the binomial coefficient of any given number of n/Pascal's Triangle.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Pascal's Triangle to find the binomial coefficient of any given number of n/Pascal's Triangle.xcodeproj/project.xcworkspace/xcuserdata/SimonLi.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Pascal's Triangle to find the binomial coefficient of any given number of n/Pascal's Triangle.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/Pascal's Triangle.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Pascal's Triangle to find the binomial coefficient of any given number of n/Pascal's Triangle.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Pascal's Triangle to find the binomial coefficient of any given number of n/Pascal's Triangle/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Rat Class/Rat Class.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Rat Class/Rat Class.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Rat Class/Rat Class.xcodeproj/project.xcworkspace/xcuserdata/SimonLi.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Rat Class/Rat Class.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/Rat Class.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Rat Class/Rat Class.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Rat Class/Rat Class/RAT Class.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Rat Class/Rat Class/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Recursive 8 Cross/Recursive 8 Cross.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Recursive 8 Cross/Recursive 8 Cross.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Recursive 8 Cross/Recursive 8 Cross.xcodeproj/project.xcworkspace/xcuserdata/SimonLi.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Recursive 8 Cross/Recursive 8 Cross.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/Recursive 8 Cross.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Recursive 8 Cross/Recursive 8 Cross.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Recursive 8 Cross/Recursive 8 Cross/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Recursive 8 Cross/Sihang Li's Recursive 8 Cross.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Resurcive Stable Marriage/Resurcive Stable Marriage.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Resurcive Stable Marriage/Resurcive Stable Marriage.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Resurcive Stable Marriage/Resurcive Stable Marriage.xcodeproj/project.xcworkspace/xcuserdata/SimonLi.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Resurcive Stable Marriage/Resurcive Stable Marriage.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/Resurcive Stable Marriage.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Resurcive Stable Marriage/Resurcive Stable Marriage.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Resurcive Stable Marriage/Resurcive Stable Marriage/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Resurcive Stable Marriage/Sihang Li's Recursive Stable Marriage.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Shortest Path Bottom Up/Shortest Path Bottom Up.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Shortest Path Bottom Up/Shortest Path Bottom Up.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Shortest Path Bottom Up/Shortest Path Bottom Up.xcodeproj/project.xcworkspace/xcuserdata/SimonLi.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Shortest Path Bottom Up/Shortest Path Bottom Up.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/Shortest Path Bottom Up.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Shortest Path Bottom Up/Shortest Path Bottom Up.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Shortest Path Bottom Up/Shortest Path Bottom Up/Shortest path bottom up.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Shortest Path Bottom Up/Shortest Path Bottom Up/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Shortest Path/Shortest Path.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Shortest Path/Shortest Path.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Shortest Path/Shortest Path.xcodeproj/project.xcworkspace/xcuserdata/SimonLi.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Shortest Path/Shortest Path.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Shortest Path/Shortest Path.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/Shortest Path.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Shortest Path/Shortest Path.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Shortest Path/Shortest Path/Shortest path.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Shortest Path/Shortest Path/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Sort Methods/Sort Methods.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Sort Methods/Sort Methods.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Sort Methods/Sort Methods.xcodeproj/project.xcworkspace/xcuserdata/SimonLi.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Sort Methods/Sort Methods.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/Sort Methods.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Sort Methods/Sort Methods.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Sort Methods/Sort Methods/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/StableMarriage/StableMarriage.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/StableMarriage/StableMarriage.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/StableMarriage/StableMarriage.xcodeproj/project.xcworkspace/xcuserdata/SimonLi.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/StableMarriage/StableMarriage.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/StableMarriage.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/StableMarriage/StableMarriage.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/StableMarriage/StableMarriage/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Tower of Hanoi/Tower of Hanoi non-recursive.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Tower of Hanoi/Tower of Hanoi.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Tower of Hanoi/Tower of Hanoi.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Tower of Hanoi/Tower of Hanoi.xcodeproj/project.xcworkspace/xcuserdata/SimonLi.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Tower of Hanoi/Tower of Hanoi.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/Tower of Hanoi.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Tower of Hanoi/Tower of Hanoi.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/Tower of Hanoi/Tower of Hanoi/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/n queens problem/n queens problem.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/n queens problem/n queens problem.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/n queens problem/n queens problem.xcodeproj/project.xcworkspace/xcuserdata/SimonLi.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/n queens problem/n queens problem.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/n queens problem/n queens problem.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/n queens problem.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/n queens problem/n queens problem.xcodeproj/xcuserdata/SimonLi.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /CS211 Assignments/n queens problem/n queens problem/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /Physics.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QC Files/Career goals for Scholarship application.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/CS101 Lab #1  Sihang Li.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/CS101 Lab #2  Sihang Li.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/CS101 Lab #3  Sihang Li.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/CS101 Lab #4  Sihang Li.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/CS101 Lab #5  Sihang Li.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/CS101 Lab #6  Sihang Li.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/CS101 Lab #7  Sihang Li.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/Calculating the period T.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/Calculating the period T.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/Dev-Cpp 5.4.0 TDM-GCC x64 4.7.1 Setup.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/Dice roll.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/Dice roll.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/First C++ Program.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/First C++ Program.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/Lab 2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/Lab 2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/Lab 3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/Lab 3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/Lab 9.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/Lab 9.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/Lab4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/Lab4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/exam3 exercise.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/exam4 exercise.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/exam5review.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/exam5review.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/exercise1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/exercise1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/exercise2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/exercise2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/homework.cp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/lab 5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/lab 5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/lab6.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/lab6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/lab6.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/lab6.h.gch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/lab7.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/lab7.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/lab8.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /C++ 101/lab8.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/Areavolumesurfacearea formula.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/CS101 Lab #1  Sihang Li.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/CS101 Lab #2  Sihang Li.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/CS101 Lab #3  Sihang Li.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/CS101 Lab #5  Sihang Li.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/CS101 Lab #6  Sihang Li.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/CS101 Lab #7  Sihang Li.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/Counting the numbers in a string.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/Counting the numbers in a string.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/Lab 2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/Lab 2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/Lab 3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/Lab 3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/Lab 9.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/Lab 9.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/diagram.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/diagram.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/fstream.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/infinite loop.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/infinite loop.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/iostream.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/lab 5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/lab 5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/lab6.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/lab6.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/lab6/lab6.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/lab6/lab6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/lab6/lab6.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/lab7.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/lab7.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/lab8.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/lab8.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/lab8/lab8.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/lab8/lab8.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/lab8/lab8.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/mangitude calculator.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/mangitude calculator.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/pointers.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/pointers.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/random number.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /CS101 Lab/random number.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Chemistry 151 Lab Report /Chemistry Lab Report #1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Chemistry 151 Lab Report /Chemistry Lab Report #2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Chemistry 151 Lab Report /Chemistry Lab Report #3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Chemistry 151 Lab Report /Chemistry Lab Report #4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Chemistry 151 Lab Report /Chemistry Lab Report #5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Chemistry 151 Lab Report /Chemistry Lab Report #6.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Chemistry 151 Lab Report /Chemistry Lab Report #7.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Chemistry 151 Lab Report /Chemistry Lab Report #8.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/(Final Revision) Sihang's Fourth essay.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/CATW LIKE ESSAY 8.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/CATW-LIKE ESSAY 10.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/CATW-LIKE ESSAY 5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/CATW-LIKE ESSAY 6.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/CATW-Like Essay 11.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/CATW-Like Essay 12.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/CATW-Like Essay 13.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/CATW-Like Essay 7.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/CATW—Like Essay 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/CATW—Like Essay 3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/CATW—Like Essay 4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/Chapter 6 and 9.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/Draft of Essay 3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/Draft of essay 4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/Essay for Tutoring 2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/Essay for Tutoringl.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/RRJ of A Daily Walk Just to Listen.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/RRJ of A way to honor life.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/RRJ of Doing Things My Own Way.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/RRJ of Everyone has talent.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/RRJ of Finding the Stength to fight Fear.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/RRJ of Less is more.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/RRJ of My Father Told Me I Was Fat.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/RRJ of My Husband Will Call Me Tomorrow.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/RRJ of The Deeply Well of Mmory.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/RRJ of The Learing Curve of Gratitude.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/RRJ of The connection between three texts.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/RRJ of the Grilled Cheese Principle.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/RRJ of the Power to Forget.docx.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/RRJ of “The Faith That Brings Me Peace”.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/RRJ of “The Person I’m supposed to be”.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/RRJ of “The Strange Blessing that Brought Me Home in This I Believe II.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/RRL of Respect Yourself.docx.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/Revision  of CATW—Like Essay 3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/Revision of CATW-LIKE ESSAY 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/Revision of CATW-LIKE ESSAY 2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/Revision of CATW-LIKE ESSAY 4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/Sihang Li(Simon)'s Literacy Autobiography.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/SihangLiSimonsAgreeOrDisagreeEssay.docx.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/Summary of “Guns are fired, and mother Crusades”.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Documents/BE101/This I Believe.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /ECON Final .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /ENG 102/DADOES Chapter 1and2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /ENG 102/English 102 First assignment.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /ENG 102/English 102 Second Assignment.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /ENG 102/Revision to essay 2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /ENG 102/Revision to essay1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /ENG 102/Sihang Li The Third Essay.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /ENG 102/Sihang Li, ENG102, ESSAY#1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /ENG 102/Sihang Li, ENG102, ESSAY#2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /ENG 102/Sihang Li, ENG102, ESSAY#3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Li, Sihang LS  23351774 LOG-1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Li, Sihang LS  23351774.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Maple homework Math 442/Explaination for Maple Homework4.mw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Maple homework Math 442/F16_LAB1_CALCII_BASIC_COMMANDS.mw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Maple homework Math 442/F16_LAB2_CALCII_VOLUMES.mw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Maple homework Math 442/F16_LAB3_CALII_EXPON_FUNCTIONS.mw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Maple homework Math 442/F16_LAB4_CALCII_NUM-INT.mws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Maple homework Math 442/Maple_basic_comnds_CALC_II_M18.mws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Maple homework Math 442/Maplenotes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /NCW 2016/20161030_120552.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /NCW 2016/20161030_130841.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /NCW 2016/NCW 2016  2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH 413 Lab/Lab #8.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH 413 Lab/PH413 LAB #1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH 413 Lab/PH413 Lab #1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH 413 Lab/PH413 Lab #10.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH 413 Lab/PH413 Lab #11.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH 413 Lab/PH413 Lab #2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH 413 Lab/PH413 Lab #2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH 413 Lab/PH413 Lab #4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH 413 Lab/PH413 Lab #5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH 413 Lab/PH413 Lab #6.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH 413 Lab/PH413 Lab #7.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH 413 Lab/PH413 Lab #8 .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH 413 Lab/PH413 Lab #9.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH 413 Lab/PH413 Lab 3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH 413 Lab/PH413 lab #7.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH 413 Lab/Physics 413 lab #6.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH 413 Lab/Physics 413 lab 5.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH 413 Lab/lab #9.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH411 Lab report/Conservation of Momentum.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH411 Lab report/Contact friction Physics – 411  Section D5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH411 Lab report/Dynamics.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH411 Lab report/Energy Physics – 411  Section D5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH411 Lab report/Equilibrium of parallel forces .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH411 Lab report/Force Table Section D5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH411 Lab report/Inclined plane Physics – 411  Section D5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH411 Lab report/Measurements, Physics – 411 lab .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH411 Lab report/Momentum of Inertia of Disk and Ring.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH411 Lab report/PH412  Lab #1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH411 Lab report/The Ballistic Pendulum.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH411 Lab report/The Modulus of Elasticity .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH411 Lab report/Two-Dimensional Collision.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH411 Lab report/Uniform Cicular Motion Physics – 411  Section D5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH413/PH413 Lab #1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH413/PH413 Lab #10.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH413/PH413 Lab #11.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH413/PH413 Lab #2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH413/PH413 Lab #4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH413/PH413 Lab #5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH413/PH413 Lab #6.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH413/PH413 Lab #7.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH413/PH413 Lab #8 .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH413/PH413 Lab #9.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /PH413/PH413 Lab 3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Physics 411 Lab Report/Conservation of Momentum.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Physics 411 Lab Report/Lab 4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Physics 412 Lab Report /PH412 Lab #10 .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Physics 412 Lab Report /PH412 Lab #2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Physics 412 Lab Report /PH412 Lab #3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Physics 412 Lab Report /PH412 Lab #4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Physics 412 Lab Report /PH412 Lab #5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Physics 412 Lab Report /PH412 Lab #6.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Physics 412 Lab Report /PH412 Lab #7.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Physics 412 Lab Report /PH412 Lab #8.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Physics 412 Lab Report /PH412 Lab #9 .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Physics 412 Lab Report /Physics 412 cheat sheet.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Scholarship essay.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/2nd speech script .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/5 Potential Project Topics.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/90 second presentation .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/Annotated Bibliography .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/Anotated Biblio.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/Foundation outline .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/Global Project Foundation Outline.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/History Project .pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/History project quotes .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/Library Assignment.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/Oral Presentation .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/Partner Speech #1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/Post-semester narrative .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/SP 211 Partner speech #2.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/Sihang Li Pre-semester narrative .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/Sihang Li's History Project .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/Sihang Li's Perspective Writting Assignment .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/Sihang Li's Speech Analysis .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/Sihang Li's Speech Analysis 2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/Sihang's portion of the GDL Project .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/Speech UDHR Set #1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/Working Outline .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /QCC Files /Speech class/Working Outline third edition .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /Schaum's Programming with C++.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /Sihang Li's Final Paper .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../School work backup /Sihang Li, CS343 Assignment #1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Texts /A First Course in Probability_8th_ed.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Texts /ComputerOrganizationAndDesign5thEdition2014.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Texts /Data Structures and Algorithms in Java Fourth Edition.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Texts /Discrete Mathematics and Its Applications - 7th Edition.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Texts /Introduction to Automata Theory, Languages and Computation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Texts /Sudkamp-Solutions-3rd.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Texts /howard_anton_chris_rorres_elementary_linear_algebra_applications_version_11th_edition.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Wanrong/IMG_2580.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Wanrong/IMG_2620.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Wanrong/IMG_2622.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Wanrong/IMG_2629.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Wanrong/IMG_2631.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Wanrong/IMG_2664.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.mylyn/.taskListIndex/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.mylyn/.taskListIndex/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.mylyn/.tasks.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.mylyn/tasks.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Exam1questions/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Exam2questions/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Exam2questions/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/GUIJFrameTemplate/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/GUIJFrameTemplate/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab10/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab10/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab11/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab12/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab14/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab14/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab16/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab16/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab17/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab17/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab21/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab21/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab22/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab22/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab23/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab24/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab24/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab5Program1/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab6Program1/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab6Program1/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab7/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab8/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Project0/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Project1/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Project2/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Project2/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Project3/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Project3/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Project4/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Project4/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/SSNFrame3/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Wallet/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Wallet/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.root/143.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.mpc.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.help.base.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.debug.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.pde.api.tools.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.pde.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.recommenders.completion.rcp.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.ws.service.policy.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/BadWalletMain.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Book.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Date212.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Distance.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/HelloWorldMore.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Lab10.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Lab11.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Lab12.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Lab16Main.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Lab24SampleMain.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Lab5Program1.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Lab6Program1.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/ListFiles.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Money (1).launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Money.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/MoneyMain.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Palindrome.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Project0 (1).launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Project0.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Project1 (1).launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Project1.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Project1temp1.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Project2 (1).launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Project2.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Project3 (1).launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Project3.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Project4 (1).launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Project4.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/QCStudent.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Question4.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/QuestionA1.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/QuestionA2.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/QuestionA3.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/ReadDate.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/ReadMoney.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/SSNJFrame3.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/SampleMain.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/SaveDate.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/SaveMoney.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Tokens.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/TwoDimArray (1).launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/TwoDimArray.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/WalletMain.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/question1.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/question2.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.epp.mpc.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.equinox.p2.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/102179255.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/1079122247.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/1097848872.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/1119878680.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/1180484879.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/1271342938.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/1365995474.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/145268399.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/1655552225.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/1690311816.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/1699738662.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/1813155485.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/1855955073.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/2052924993.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/206535591.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/2066924253.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/2238786472.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/224007895.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/2345560674.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/2362891960.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/2470347636.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/2488485741.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/2789758058.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/2842472240.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/2925295723.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/3126888922.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/3175304630.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/3277980169.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/3619427458.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/3728116964.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/3813963771.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/3879918502.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/3978336948.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/4061308272.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/4067826494.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/4112244519.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/454409739.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/477657618.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/853707784.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/88183214.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/928328145.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.jst.j2ee.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/10/42/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/10/42/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/11/46/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/11/46/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/11/47/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/11/47/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/11/48/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/11/48/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/12/49/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/12/49/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/9/37/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/9/37/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/9/39/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2017/9/39/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Exam1questions/2017/10/40/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Exam1questions/2017/10/40/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/GUIJFrameTemplate/2017/11/45/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/GUIJFrameTemplate/2017/11/45/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Lab17/2017/11/44/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Lab17/2017/11/44/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Lab17/2017/12/49/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Lab17/2017/12/49/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Lab5Program1/2017/11/46/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Lab5Program1/2017/11/46/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Lab5Program1/2017/9/38/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Lab5Program1/2017/9/38/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Lab5Program1/2017/9/39/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Lab5Program1/2017/9/39/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Lab6Program1/2017/9/39/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Lab6Program1/2017/9/39/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Lab7/2017/10/42/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Lab7/2017/10/42/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Lab8/2017/10/40/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Lab8/2017/10/40/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project0/2017/9/39/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project0/2017/9/39/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project1/2017/10/41/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project1/2017/10/41/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project1/2017/10/42/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project1/2017/10/42/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project1/2017/11/45/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project1/2017/11/45/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project12/2017/10/42/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project12/2017/10/42/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project2/2017/11/44/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project2/2017/11/44/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project2/2017/11/45/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project2/2017/11/45/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project2/2017/11/46/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project2/2017/11/46/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project2/2017/11/47/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project2/2017/11/47/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project3/2017/11/47/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project3/2017/11/47/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project3/2017/12/48/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project3/2017/12/48/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project4/2017/12/48/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project4/2017/12/48/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project4/2017/12/49/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Project4/2017/12/49/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SSN/2017/9/38/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SSN/2017/9/38/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SSNFrame3/2017/10/42/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SSNFrame3/2017/10/42/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SSNFrame3/2017/11/44/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SSNFrame3/2017/11/44/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SSNFrame3/2017/9/39/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SSNFrame3/2017/9/39/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Wallet/2017/11/45/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Wallet/2017/11/45/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Wallet/2017/11/48/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Wallet/2017/11/48/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Wallet/2017/12/49/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Wallet/2017/12/49/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/test/2017/11/46/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/test/2017/11/46/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/test/2017/11/48/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/test/2017/11/48/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/test/2017/12/49/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/test/2017/12/49/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.8.0.20170516-2043.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.8.1.20170728-1531.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.pde.core/.local_targets/1510677122791.target" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.pde.core/SavedExternalPluginList.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.pde.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.rse.core/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.simon-macbookair_33284/FP.local.files_0/node.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.simon-macbookair_33284/H.local_16/node.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.simon-macbookair_33284/node.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.rse.ui/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.search/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ui.editors/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ui.intro/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.recommenders/caches/identified-project-coordinates.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.recommenders/caches/manual-mappings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_1y.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_1y.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_1y.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_1y.frq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_1y.nrm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_1y.prx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_1y.tii" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_1y.tis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments.gen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments_1z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam1questions/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam1questions/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam1questions/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam1questions/bin/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam1questions/bin/Distance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam1questions/bin/Question4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam1questions/bin/QuestionA1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam1questions/bin/QuestionA2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam1questions/bin/QuestionA3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam1questions/bin/question1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam1questions/bin/question2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam1questions/src/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam1questions/src/Distance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam1questions/src/Question4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam1questions/src/QuestionA1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam1questions/src/QuestionA2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam1questions/src/QuestionA3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam1questions/src/question1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam1questions/src/question2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam2/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam2/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam2questions/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam2questions/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam2questions/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam2questions/bin/Exam2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam2questions/bin/Exam2Super.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam2questions/bin/Exam2class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam2questions/bin/Question1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam2questions/bin/StringList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam2questions/bin/StringNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam2questions/src/Exam2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam2questions/src/Exam2Super.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam2questions/src/Exam2class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam2questions/src/Question1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam2questions/src/StringList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Exam2questions/src/StringNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/GUIJFrameTemplate/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/GUIJFrameTemplate/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/GUIJFrameTemplate/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/GUIJFrameTemplate/bin/EditMenuHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/GUIJFrameTemplate/bin/FileMenuHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/GUIJFrameTemplate/bin/SSN.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/GUIJFrameTemplate/bin/SampleGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/GUIJFrameTemplate/bin/SampleMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/GUIJFrameTemplate/bin/TextFileInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/GUIJFrameTemplate/src/EditMenuHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/GUIJFrameTemplate/src/FileMenuHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/GUIJFrameTemplate/src/SSN.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/GUIJFrameTemplate/src/SampleGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/GUIJFrameTemplate/src/SampleMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/GUIJFrameTemplate/src/TextFileInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/bin/Lab10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/doc/Lab10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/doc/allclasses-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/doc/allclasses-noframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/doc/class-use/Lab10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/doc/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/doc/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/doc/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/doc/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/doc/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/doc/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/doc/index-files/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/doc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/doc/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/doc/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/doc/package-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/doc/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/doc/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/doc/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/doc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/doc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab10/src/Lab10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab11/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab11/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab11/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab11/bin/HelloWorldMore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab11/bin/HelloWorldSwing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab11/bin/Lab11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab11/src/HelloWorldMore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab11/src/HelloWorldSwing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab11/src/Lab11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab12/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab12/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab12/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab12/bin/Lab12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab12/bin/Lab12GUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab12/bin/TextFileInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab12/lab12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab12/src/Lab12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab12/src/Lab12GUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab12/src/TextFileInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab14/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab14/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab14/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab14/bin/Money.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab14/bin/QCStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab14/src/Money.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab14/src/QCStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab16/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab16/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab16/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab16/bin/Lab16Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab16/bin/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab16/bin/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab16/src/Lab16Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab16/src/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab16/src/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab17/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab17/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab17/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab17/bin/Bill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab17/bin/Coin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab17/bin/Dime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab17/bin/Money.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab17/bin/MoneyMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab17/bin/Nickel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab17/bin/Penny.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab17/bin/Quarter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab17/src/Bill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab17/src/Coin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab17/src/Dime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab17/src/Money.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab17/src/MoneyMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab17/src/Nickel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab17/src/Penny.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab17/src/Quarter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab20/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab20/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab20/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab20/bin/BadWalletMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab20/src/BadWalletMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab21/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab21/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab21/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab21/bin/ListFiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab21/bin/ListLargestFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab21/src/ListFiles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab21/src/ListLargestFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/bin/Bill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/bin/Coin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/bin/IllegalBillException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/bin/Money.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/bin/Quarter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/bin/ReadDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/bin/ReadMoney.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/bin/SaveDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/bin/SaveMoney.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/date.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/money.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/src/Bill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/src/Coin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/src/IllegalBillException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/src/Money.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/src/Quarter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/src/ReadDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/src/ReadMoney.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/src/SaveDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab22/src/SaveMoney.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab23/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab23/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab23/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab23/bin/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab23/src/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/bin/Bill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/bin/Coin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/bin/Dime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/bin/Lab24SampleMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/bin/Money.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/bin/MoneyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/bin/MoneyMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/bin/MoneyNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/bin/Nickel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/bin/Penny.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/bin/Quarter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/src/Bill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/src/Coin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/src/Dime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/src/Lab24SampleMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/src/Money.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/src/MoneyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/src/MoneyMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/src/MoneyNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/src/Nickel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/src/Penny.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab24/src/Quarter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab5Program1/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab5Program1/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab5Program1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab5Program1/Lab5Program1/Lab5Program1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab5Program1/Lab5Program1/Lab5Program1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab5Program1/Lab5Program1/TextFileInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab5Program1/Lab5Program1/TextFileInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab5Program1/Lab5Program1/lab5input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab5Program1/lab5input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab6Program1/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab6Program1/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab6Program1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab6Program1/bin/Lab6Program1/Lab6Program1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab6Program1/bin/Lab6Program1/TextFileInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab6Program1/lab6input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab6Program1/src/Lab6Program1/Lab6Program1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab6Program1/src/Lab6Program1/TextFileInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab7/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab7/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab7/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab7/bin/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab7/bin/TextFileInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab7/bin/TwoDimArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab7/src/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab7/src/TextFileInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab7/src/TwoDimArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab7/twodimension.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab8/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab8/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab8/animals.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab8/bin/TextFileInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab8/bin/Tokens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab8/bin/TwoDimArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab8/src/TextFileInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab8/src/Tokens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab8/src/TwoDimArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Lab8/twodimension8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project0/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project0/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project0/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project0/bin/project0/Project0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project0/src/project0/Project0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project1/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project1/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project1/bin/Date212.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project1/bin/DateGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project1/bin/Project1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project1/bin/Project1temp1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project1/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project1/src/Date212.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project1/src/DateGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project1/src/Project1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project1/src/Project1temp1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project12/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project12/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project12/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project12/bin/Project1/Date212.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project12/bin/Project1/DateGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project12/bin/Project1/Project1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project12/src/Project1/Date212.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project12/src/Project1/DateGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project12/src/Project1/Project1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/bin/Date212.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/bin/DateGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/bin/DateList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/bin/DateNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/bin/FileMenuHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/bin/Project2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/bin/SortedDateList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/bin/TextFileInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/bin/UnsortedDateList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/src/Date212.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/src/DateGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/src/DateList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/src/DateNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/src/FileMenuHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/src/Project2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/src/SortedDateList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/src/TextFileInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project2/src/UnsortedDateList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/bin/Date212.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/bin/Date212Exception.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/bin/DateGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/bin/DateList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/bin/DateNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/bin/EditMenuHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/bin/FileMenuHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/bin/Project3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/bin/SortedDateList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/bin/TextFileInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/bin/UnsortedDateList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/src/Date212.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/src/Date212Exception.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/src/DateGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/src/DateList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/src/DateNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/src/EditMenuHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/src/FileMenuHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/src/Project3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/src/SortedDateList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/src/TextFileInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project3/src/UnsortedDateList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/bin/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/bin/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/bin/Date212.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/bin/Date212Exception.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/bin/DateComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/bin/DateGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/bin/DummyDateComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/bin/FileMenuHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/bin/Project4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/bin/TextFileInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/src/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/src/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/src/Date212.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/src/Date212Exception.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/src/DateComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/src/DateGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/src/DummyDateComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/src/FileMenuHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/src/Project4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/src/TextFileInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Project4/src/TreeMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/RemoteSystemsTempFiles/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/SSN/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/SSN/bin/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/SSNFrame3/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/SSNFrame3/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/SSNFrame3/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/SSNFrame3/SSN.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/SSNFrame3/bin/SSNFrame3/SSNJFrame3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/SSNFrame3/bin/SSNFrame3/TextFileInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/SSNFrame3/src/SSNFrame3/SSNJFrame3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/SSNFrame3/src/SSNFrame3/TextFileInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Sihang Li's Project1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Sihang Li's Project2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Sihang Li's Project3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Sihang Li's Project4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/bin/BadWalletMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/bin/Bill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/bin/Coin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/bin/Dime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/bin/IllegalBillException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/bin/IllegalBillException2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/bin/Money.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/bin/MoneyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/bin/MoneyNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/bin/Nickel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/bin/Penny.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/bin/Quarter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/bin/Wallet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/src/BadWalletMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/src/Bill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/src/Coin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/src/Dime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/src/IllegalBillException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/src/IllegalBillException2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/src/Money.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/src/MoneyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/src/MoneyNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/src/Nickel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/src/Penny.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/src/Quarter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/src/Wallet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/Wallet/src/WalletMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test/Date212.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test/Date212Exception.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test/DateComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test/DateGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test/DummyDateComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test/FileMenuHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test/Project4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test/TextFileInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/Date212.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/Date212Exception.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/DateComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/DateGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/DummyDateComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/FileMenuHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/Project4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/TextFileInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/bin/Date212.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/bin/Date212Exception.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/bin/DateComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/bin/DateGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/bin/DummyDateComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/bin/FileMenuHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/bin/Project4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/bin/TextFileInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/src/Date212.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/src/Date212Exception.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/src/DateComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/src/DateGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/src/DummyDateComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/src/FileMenuHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/src/Project4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../eclipse-workspace/test2/src/TextFileInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../n-400 copy.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../n-400.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../~$343 Assignment #1.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FM2Dm1pXnoyu6aH4cz5Ijv3fWy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sihangli/Desktop/Lectures/Java Backend/12. Spring Security/SpringSecurityDemo&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;040858d582e81dc6afa5cd2406b2e189&quot;
+  }
+}</component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringSecurityContentApplication">
+    <configuration name="SpringSecurityAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SpringSecurityAuth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.beaconfire.springsecurityauth.SpringSecurityAuthApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.beaconfire.springsecurityauth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSecurityContentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SpringSecurityContent" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.beaconfire.springsecuritycontent.SpringSecurityContentApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.beaconfire.springsecuritycontent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringSecurityContentApplication" />
+        <item itemvalue="Spring Boot.SpringSecurityAuthApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66b27be2-62ad-4ef7-8bc5-baa5629eb72e" name="Changes" comment="" />
+      <created>1664287515597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664287515597</updated>
+      <workItem from="1664287516749" duration="241000" />
+      <workItem from="1664287944960" duration="1642000" />
+      <workItem from="1664289781409" duration="48000" />
+      <workItem from="1664289918054" duration="112000" />
+      <workItem from="1664290033811" duration="152000" />
+      <workItem from="1664290194250" duration="811000" />
+      <workItem from="1664291455275" duration="240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassNotFoundException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
